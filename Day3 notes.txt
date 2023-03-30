@@ -1,0 +1,33 @@
+1) malloc()
+2) calloc()
+3) realloc()
+4) free()
+
+STACK AND HEAP
+
+RAM - stack
+NOTE: In malloc() once its done all the memory spaces will have garbage values. In calloc() once it is done,all  the memory spaces will have 0
+NOTE: MAGICAL PRIME NUMBERS=> if a number and its reverse is prime.  
+NOTE: %u => print addresss 
+
+VS Code and Turbo C 
+
+DATA STRUCTURES
+
+1) Linear DS
+2) Non Linear DS
+
+Linked list
+
+It is a linear DS . Real time examples: Train,spotify playlist
+operations in linked list: insert,delete,search
+
+INSERT
+1) INSERT at beginning
+2) INSERT at last
+3) INSERT  required node
+
+DELETE
+1) DELETE at beginning
+2) DELETE at last
+3) DELETE  required node
