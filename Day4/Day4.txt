@@ -1,0 +1,4 @@
+1.Create NODE with data and pointer
+2.Allocate memory
+3.Give value
+4.Establish link
